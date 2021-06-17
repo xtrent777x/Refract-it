@@ -48,7 +48,7 @@ a {
 
 
 .hero {
-    background-image: url("../Images/digital-marketing-meeting.jpeg");
+    background-image: url("./assets/Images/digital-marketing-meeting.jpeg");
     height: 800px;
     background-size: cover;
     background-position: center;
