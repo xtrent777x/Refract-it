@@ -16,6 +16,8 @@ HTML - corrections
 
 - Added comments to HTML to make it wasier to read.
 
+corrected footer show flow <h4> tag
+
 CSS - Corrections
 
 Re-wrote the Hero section for background image to begin with the image URL
@@ -32,3 +34,7 @@ removed . header ul tag as had no function.
 . search, online, social tags aligned to be all together per theie sections.
 
 re organized full css to follow HTML flow
+
+condensed tags with same componets.
+
+added comments to css file
